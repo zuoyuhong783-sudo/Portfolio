@@ -1,3 +1,2 @@
 # Portfolio
-Project research and reports
-项目研究以及报告
+A collection of project research and reports, resumes, and personal websites
